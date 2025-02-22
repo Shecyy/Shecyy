@@ -8,6 +8,9 @@ I am currently a Ph.D. student at the College of Artificial Intelligence, Southw
 
 - 💻 My major is **Computer Science and Technology**.
 - 🔭 I’m currently working on deep learning and computer vision, in particular generative model and image enhancement. I have published some papers in the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Intelligent Vehicles (TIV) and Knowledge-Based Systems (KBS).
+- ---
+- 👯 **I’m open to any kind of collaboration. Please feel free to contact me directly through email (shecyy AT email DOT swu DOT edu DOT cn).**
+- ---
 
 **🛠 Languages and Tools:**  
 
